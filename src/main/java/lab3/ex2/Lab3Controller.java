@@ -11,11 +11,11 @@ public class Lab3Controller {
     private Button button1;
 
     @FXML
-    private Label lable1;
+    private Label label1;
 
     @FXML
     void buttonPressed(ActionEvent event) {
-    	lable1.setText("Welcom to JavaFX");
+    	label1.setText("Welcom to JavaFX");
     }
 
 }
