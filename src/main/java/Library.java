@@ -12,6 +12,8 @@ public class Library {
     public static void main(String arg[]) {
     	lab3.ex2.UIApplication.run(arg);
     	System.out.println("KIM");
+    	System.out.println("KIM2");
+    	System.out.println("ABC");
     }
    
 }
